@@ -1,2 +1,2 @@
 # hello-world
-so here me again, launching into the space
+want to learn to do basic stuff in web development
